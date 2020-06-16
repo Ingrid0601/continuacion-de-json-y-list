@@ -1,0 +1,5 @@
+{"Nombre":"ingrit sahari","Edad":"22","Sexo":"femenino"}
+{"Nombre":"raul daniel","Edad":"23","Sexo":"masculino"}
+{"Nombre":"prueba 1","Edad":"23","Sexo":"masculino"}
+{"Nombre":"prueba 2","Edad":"21","Sexo":"femenino"}
+{"Nombre":"de la o martinez","Edad":"21","Sexo":"femenino"}
